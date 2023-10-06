@@ -62,7 +62,11 @@
     <Compile Include="Assets\Scripts\Test002\Test002Dlg.cs" />
     <Compile Include="Assets\Scripts\Test009\Test009Dlg.cs" />
     <Compile Include="Assets\Scripts\Test008\Test008Dlg.cs" />
+    <Compile Include="Assets\Scripts\Test011\TextItem.cs" />
+    <Compile Include="Assets\Scripts\Test010\Animal.cs" />
     <Compile Include="Assets\Scripts\Test007\Test007Dlg.cs" />
+    <Compile Include="Assets\Scripts\Test010\Test010Dlg.cs" />
+    <Compile Include="Assets\Scripts\Test011\Test011Dlg.cs" />
     <Compile Include="Assets\Scripts\Test006\Test006Dlg.cs" />
     <Compile Include="Assets\Scripts\Test005\Test005Dlg.cs" />
     <Compile Include="Assets\Scripts\Test004\Test004Dlg.cs" />

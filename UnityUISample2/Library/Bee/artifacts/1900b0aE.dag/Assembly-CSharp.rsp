@@ -361,6 +361,10 @@
 "Assets/Scripts/Test007/Test007Dlg.cs"
 "Assets/Scripts/Test008/Test008Dlg.cs"
 "Assets/Scripts/Test009/Test009Dlg.cs"
+"Assets/Scripts/Test010/Animal.cs"
+"Assets/Scripts/Test010/Test010Dlg.cs"
+"Assets/Scripts/Test011/Test011Dlg.cs"
+"Assets/Scripts/Test011/TextItem.cs"
 -langversion:9.0
 
 /deterministic
