@@ -486,6 +486,7 @@ GameObject:
   - component: {fileID: 5741513699944829406}
   - component: {fileID: 2651997190334714043}
   - component: {fileID: 8061420587992324056}
+  - component: {fileID: 6938584023689814145}
   m_Layer: 5
   m_Name: StudentInfo
   m_TagString: Untagged
@@ -601,6 +602,25 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &6938584023689814145
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6627469817801541729}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be5a3ea86db2bfb4abc1d613ea429009, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_txtNum: {fileID: 7537149489984843008}
+  m_txtName: {fileID: 1157967701091784469}
+  m_txtKor: {fileID: 2350327259051782726}
+  m_txtEng: {fileID: 6218938258726896203}
+  m_txtMath: {fileID: 1916730210940862761}
+  m_txtSum: {fileID: 1382975326461279391}
+  m_txtAvg: {fileID: 4477937939516600785}
 --- !u!1 &8176954572911524314
 GameObject:
   m_ObjectHideFlags: 0
